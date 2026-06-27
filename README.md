@@ -51,7 +51,7 @@ Quer continuar? S/N: S
 
 Digite um valor: 8
 Esse número já existe e está duplicado, portanto, não foi adicionado
-Quer continuar? S/N: S
+- Quer continuar? S/N: S
 
 Digite um valor: abc
 Digite somente valores inteiros para formar sua lista.
