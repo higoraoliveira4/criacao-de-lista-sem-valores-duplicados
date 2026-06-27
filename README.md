@@ -41,23 +41,23 @@ Baixe este repositório e execute o arquivo pelo terminal ou por uma IDE de sua 
 
 ## Exemplo de Uso
 
-Digite um valor: 8
-Valor adicionado com sucesso
-Quer continuar? S/N: S
-
-Digite um valor: 4
-Valor adicionado com sucesso
-Quer continuar? S/N: S
-
-Digite um valor: 8
-Esse número já existe e está duplicado, portanto, não foi adicionado
+- Digite um valor: 8
+- Valor adicionado com sucesso
 - Quer continuar? S/N: S
 
-Digite um valor: abc
+- Digite um valor: 4
+- Valor adicionado com sucesso
+- Quer continuar? S/N: S
+
+- Digite um valor: 8
+- Esse número já existe e está duplicado, portanto, não foi adicionado
+- Quer continuar? S/N: S
+
+- Digite um valor: abc
 - Digite somente valores inteiros para formar sua lista.
 
-Digite um valor: 10
-Valor adicionado com sucesso
-Quer continuar? S/N: N
+- Digite um valor: 10
+- Valor adicionado com sucesso
+- Quer continuar? S/N: N
 
 Você criou a lista: [4, 8, 10]
