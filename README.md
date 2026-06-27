@@ -54,7 +54,7 @@ Esse número já existe e está duplicado, portanto, não foi adicionado
 - Quer continuar? S/N: S
 
 Digite um valor: abc
-Digite somente valores inteiros para formar sua lista.
+- Digite somente valores inteiros para formar sua lista.
 
 Digite um valor: 10
 Valor adicionado com sucesso
